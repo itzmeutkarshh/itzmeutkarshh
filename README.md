@@ -6,6 +6,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmeutkarshh&label=Profile%20views&color=0e75b6&style=flat" alt="itzmeutkarshh" /> </p>
 
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Utkarsh Tiwari'
+		current_work = 'Writing code'
+		hobbies = [
+				'Watching Anime',
+				'Multi-player games',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Uttar Pradesh_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		MoreSkilledCoder()
+		DSAexpert()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
 - 📫 How to reach me **utkarsh.tiwari2020@vitbhopal.ac.in**
 
 <h3 align="left">Connect with me:</h3>
