@@ -41,7 +41,7 @@
 - 📫 How to reach me **utkarsh.tiwari2020@vitbhopal.ac.in**
 
 
-<img align="right" alt="geass" width="150" height="200" src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/download.gif">
+<img align="right" alt="geass" width="300" src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/tumblr_59feb04ef9f5b066a5bd6c473f6d2f33_c02f136c_500.gif">
 <h3 align="left">Connect with me:</h3>
 
 
