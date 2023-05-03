@@ -60,4 +60,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmeutkarshh&" alt="itzmeutkarshh" /></p>
 
 
-<img src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/1000_F_171155788_ZN1sFbgcLbWzaksyUd6Jma8MemcxsiWI.jpg">
+<img src="">
