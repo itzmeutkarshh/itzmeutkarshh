@@ -1,6 +1,6 @@
 
 ![Header](https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/github-header-image.png)
-<img align="right" alt="geass" width="300" height="200" src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/code-geass-gif-on-gifer-by-molkis.gif">
+<img align="right" alt="geass" width="200" height="200" src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/code-geass-gif-on-gifer-by-molkis.gif">
 <h1 align="center">Hi 👋, I'm Utkarsh Tiwari</h1>
 <h3 align="center">A passionate web developer</h3>
 
