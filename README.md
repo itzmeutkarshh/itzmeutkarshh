@@ -31,7 +31,7 @@
 	
 	def Ambitions():
 		LearnJapanese()
-		MoreSkilledCoder()
+		BeMoreSkilledCoder()
 		DSAexpert()
 		# Assume 10 more awesome ambitions here  ;)
 	
