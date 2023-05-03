@@ -41,8 +41,10 @@
 - 📫 How to reach me **utkarsh.tiwari2020@vitbhopal.ac.in**
 
 
-
+<img align="right" alt="geass" width="150" height="200" src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/tumblr_mmb09pVepz1sp5yuho1_r1_500.gif">
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/utkarsh-tiwari-9aaa2a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-tiwari-9aaa2a209/" height="30" width="40" /></a>
 <a href="https://instagram.com/itzmeutkarshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzmeutkarshh" height="30" width="40" /></a>
