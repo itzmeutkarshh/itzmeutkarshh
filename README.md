@@ -58,6 +58,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmeutkarshh&show_icons=true&locale=en" alt="itzmeutkarshh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmeutkarshh&" alt="itzmeutkarshh" /></p>
-br>
 
-<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/footer.png">
+
+<img src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/1000_F_171155788_ZN1sFbgcLbWzaksyUd6Jma8MemcxsiWI.jpg">
