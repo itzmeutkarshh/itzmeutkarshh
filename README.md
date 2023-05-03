@@ -60,5 +60,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmeutkarshh&" alt="itzmeutkarshh" /></p>
 
 <br>
-<h3 align="center">VARANASI</h3>
+<h3 align="center">VARANASI❤️</h3>
 <p><img align="center" src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/varanasi.jpg"></p>
