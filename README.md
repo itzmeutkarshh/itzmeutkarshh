@@ -11,6 +11,14 @@
  class WhoAmI:
  	user = 'Utkarsh Tiwari'
 		current_work = 'Writing code'
+		education = [
+				'B.Tech Computer Science'
+			]
+			
+		institute = [	
+				'Vellore Institute of Technology'
+			]
+				
 		hobbies = [
 				'Watching Anime',
 				'Multi-player games',
