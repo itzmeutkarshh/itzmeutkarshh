@@ -59,6 +59,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmeutkarshh&" alt="itzmeutkarshh" /></p>
 
+<p align = "center">
+  
+  [![Utkarsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itzmeutkarshh&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</p>
+
 <br>
 <h3 align="center">VARANASI❤️</h3>
 <p><img align="center" src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/varanasi.jpg"></p>
