@@ -70,5 +70,5 @@
 
 <br>
 <h3 align="center">VARANASI❤️</h3>
-<p>![varanasi](https://github.com/itzmeutkarshh/itzmeutkarshh/assets/100088315/3493c4ea-5d78-4b5c-8ef3-eb7b54dd0afe)
+<p><img src="https://github.com/itzmeutkarshh/itzmeutkarshh/blob/main/varanasi.jpg" />
 </p>
