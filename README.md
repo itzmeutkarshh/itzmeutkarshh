@@ -64,7 +64,7 @@
 
 <p align = "center">
   
- [![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzmeutkarshh)](https://github.com/itzmeutkarshh/github-readme-activity-graph)
+ [![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzmeutkarshh&theme=merko)](https://github.com/itzmeutkarshh/github-readme-activity-graph)
   
 </p>
 
